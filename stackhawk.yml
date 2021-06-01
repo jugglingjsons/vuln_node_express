@@ -1,0 +1,5 @@
+# Application specific configuration
+app:
+  applicationId: 06b8c630-e4fa-4368-9535-220519418551 # (required)
+  env: Pre-Production # (required)
+  host: https://localhost:3000  # https://localhost:3000 (required)
